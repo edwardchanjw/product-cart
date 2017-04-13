@@ -1,0 +1,14 @@
+[
+  {"id": 1, "title": "iPad Pro", "price": 500.01, "inventory": 10, "category": "tablet"},
+  {"id": 2, "title": "Dell Inspiro 15", "price": 10.99, "inventory": 10, "category": "laptop"},
+  {"id": 3, "title": "Microsoft Surface Studio", "price": 19.99, "inventory": 10, "category": "desktop"},
+  {"id": 4, "title": "iPad Pro", "price": 500.01, "inventory": 10, "category": "tablet"},
+  {"id": 5, "title": "Dell Inspiro 15", "price": 10.99, "inventory": 10, "category": "laptop"},
+  {"id": 6, "title": "Microsoft Surface Studio", "price": 19.99, "inventory": 10, "category": "desktop"},
+  {"id": 7, "title": "iPad Pro", "price": 500.01, "inventory": 10, "category": "tablet"},
+  {"id": 8, "title": "Dell Inspiro 15", "price": 10.99, "inventory": 10, "category": "laptop"},
+  {"id": 9, "title": "Microsoft Surface Studio", "price": 19.99, "inventory": 10, "category": "desktop"},
+  {"id": 10, "title": "iPad Pro", "price": 500.01, "inventory": 10, "category": "tablet"},
+  {"id": 11, "title": "Dell Inspiro 15", "price": 10.99, "inventory": 10, "category": "laptop"},
+  {"id": 12, "title": "Microsoft Surface Studio", "price": 19.99, "inventory": 10, "category": "desktop"}
+]
